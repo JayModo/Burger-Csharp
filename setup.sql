@@ -1,13 +1,13 @@
-USE burgershack6;
+USE projectcodeworks;
 -- CREATE TABLE burgers
--- (
---     id VARCHAR(255) NOT NULL,
---     name VARCHAR(255) NOT NULL,
---     price decimal(5,2) DEFAULT .99,
---     description VARCHAR(255) NOT NULL,
+ --(
+   --  id VARCHAR(255) NOT NULL,
+    -- name VARCHAR(255) NOT NULL,
+     --price decimal(5,2) DEFAULT .99,
+    -- description VARCHAR(255) NOT NULL,
 
---     PRIMARY KEY(id)
--- );
+   -- PRIMARY KEY(id)
+ --);
 
 -- CREATE
 -- INSERT INTO burgers 
