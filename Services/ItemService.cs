@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Data;
-using BurgerShack.Db;
+
 using BurgerShack.Models;
 using BurgerShack.Repositories;
 using Fall_BurgerShack.Models;
